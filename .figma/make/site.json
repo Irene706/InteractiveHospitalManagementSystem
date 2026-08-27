@@ -1,0 +1,10 @@
+{
+  "description": "Manage patient data and hospital services efficiently with a responsive, interactive system designed to streamline healthcare operations and improve user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
